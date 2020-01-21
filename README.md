@@ -1,2 +1,2 @@
 # Code-info
-This is my repo for my code 
+This is a repo for my code 
